@@ -1,0 +1,16 @@
+/*shared styles for both elements */
+.button-one, .button-two {
+    font-size: 28px;
+    font-family: helvetica,"Times New Roman" sans-serif;
+}
+
+/*unique to first element */
+.button-one {
+    background-color: black;
+    color: white;
+}
+
+/* unique to second element */
+.button-two {
+    background-color: yellow;
+}

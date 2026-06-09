@@ -1,0 +1,10 @@
+/* Has both avatar and proportioned classes */
+.avatar .proportioned {
+    width: 300px;
+}
+
+/* has both avatar and distorted classes*/
+.avatar .distorted {
+    width: 200px;
+    height: 400px;
+}
